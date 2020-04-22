@@ -17,32 +17,42 @@ File extensions:
 
 Files needed for each figure::  
 Figure 2:  
--Script: ModelCalibrationABCOutputs.R  
--Input files: CalibrationOtaniOutputs.csv  
-              CalibrationFMROutputs.csv  
+-Script: 
+ModelCalibrationABCOutputs.R  
+-Input files:  
+CalibrationOtaniOutputs.csv  
+CalibrationFMROutputs.csv  
 
 Figure 3:  
--Script: ModelEvaluationSeasonalOutputs.R  
--Input files: EvaluationSeasonalOutputs.csv  
-              EvaluationPorpoiseBlubberData.csv  
+-Script:  
+ModelEvaluationSeasonalOutputs.R  
+-Input files:  
+EvaluationSeasonalOutputs.csv  
+EvaluationPorpoiseBlubberData.csv  
 
 Figure 4:  
--Script: ScenarioDriversSeasonalOutputs.R  
--Input files: DriversSeasonalWaterTemp.csv  
-              DriversSeasonalOutputsSLEBCP.csv  
+-Script:  
+ScenarioDriversSeasonalOutputs.R  
+-Input files:  
+DriversSeasonalWaterTemp.csv  
+DriversSeasonalOutputsSLEBCP.csv  
 
 Figure 5:  
--Script: ScenarioExampleExposureOutput.R  
--Input files: ScenarioExampleOutputPorpoiseMSSL.csv  
-              ScenarioExampleOutputPorpoiseTrack.csv  
-              OmoTrack.csv  
-              SBTrack.csv  
-              SamsoTrack.csv  
-              quarter4.asc  
+-Script:  
+ScenarioExampleExposureOutput.R  
+-Input files:  
+ScenarioExampleOutputPorpoiseMSSL.csv  
+ScenarioExampleOutputPorpoiseTrack.csv  
+OmoTrack.csv  
+SBTrack.csv  
+SamsoTrack.csv  
+quarter4.asc  
 
 Figure 6:  
--Script: ScenarioOutputs.R  
--Input files: ScenarioExposureOutputs.RData  
+-Script:  
+ScenarioOutputs.R  
+-Input files:  
+ScenarioExposureOutputs.RData  
 
 
 For questions, please contact Cara A. Gallagher at cgallagher@bios.au.dk or carag16@gmail.com
